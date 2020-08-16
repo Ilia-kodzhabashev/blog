@@ -1,0 +1,27 @@
+.footer {
+    width: 100%;
+    margin: 0 auto;
+    height:20vh;
+  }
+
+.galery-wrapper{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, 180px);
+  justify-content: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 4%;
+	-webkit-box-shadow: -2px 7px 21px -9px rgba(0,0,0,0.75);
+	-moz-box-shadow: -2px 7px 21px -9px rgba(214, 172, 172, 0.75);
+	box-shadow: -2px 7px 21px -9px rgba(87, 35, 35, 0.75)
+}
+
+.post-intro{
+  padding-top: 18px;
+  padding-bottom: 15px;
+	color:#353b35;
+  font-size: 20px;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+
+}

@@ -1,0 +1,29 @@
+
+.instagram {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+    color:#abd4c7; 
+}
+.instagram:hover{
+    transform: translate(-2px);
+}
+
+.linkedin {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+    color: #abd4c7;
+}
+.linkedin:hover{
+    transform: translate(-2px);
+}
+.facebook {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+    color: #abd4c7;
+}
+.facebook:hover{
+    transform: translate(-2px);
+}
